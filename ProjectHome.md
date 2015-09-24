@@ -1,0 +1,7 @@
+A full set of poker playing cards created using vector graphics. The .SVG source for each card is available as well as a high resolution rasterized .PNG version. These images are released into the public domain - attribution is appreciated but not required.
+
+<table><tr><td><a href='https://picasaweb.google.com/lh/photo/NmApltPkQDt-I21SOXqqdA?feat=embedwebsite'><img src='https://lh3.googleusercontent.com/_a-PgUel6wY0/TXaTzsYK58I/AAAAAAAADpQ/E7P4LShEDho/s400/cards1.png' height='344' width='400' /></a></td></tr><tr><td>From <a href='https://picasaweb.google.com/byronknoll/PlayingCards?feat=embedwebsite'>Playing Cards</a></td></tr></table>
+
+<table><tr><td><a href='https://picasaweb.google.com/lh/photo/1iIZFBN6IejMAypvUwUy5Q?feat=embedwebsite'><img src='https://lh4.googleusercontent.com/_a-PgUel6wY0/TXaT0z3mFLI/AAAAAAAADpY/cauWQpuOmZI/s400/cards2.png' height='344' width='400' /></a></td></tr><tr><td>From <a href='https://picasaweb.google.com/byronknoll/PlayingCards?feat=embedwebsite'>Playing Cards</a></td></tr></table>
+
+<table><tr><td><a href='https://picasaweb.google.com/lh/photo/MqgX7zNEZUCjALBAsb5iFg?feat=embedwebsite'><img src='https://lh3.googleusercontent.com/_a-PgUel6wY0/TXaT27ZFxwI/AAAAAAAADpg/sanIVdh73E8/s400/royalty.png' height='320' width='400' /></a></td></tr><tr><td>From <a href='https://picasaweb.google.com/byronknoll/PlayingCards?feat=embedwebsite'>Playing Cards</a></td></tr></table>
